@@ -1,1 +1,1 @@
-"hello git " 
+"git is powerful" 
