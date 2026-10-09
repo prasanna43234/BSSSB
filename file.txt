@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "gfchmchjjvknanlglkd dfg" 
+=======
+"kfsafljafls" 
+>>>>>>> 5320dc85c55c1700c68eec7e7045b1a6eee09606
